@@ -1,0 +1,11 @@
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\bin\Debug\KP APPO.exe.config
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\bin\Debug\KP APPO.exe
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\bin\Debug\KP APPO.pdb
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP APPO.csproj.AssemblyReference.cache
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP_APPO.Properties.Resources.resources
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP APPO.csproj.GenerateResource.cache
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP APPO.csproj.CoreCompileInputs.cache
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP APPO.exe
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP APPO.pdb
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP_APPO.Form2.resources
+C:\Users\Envoi\Desktop\уник\КП\КП АППО Итератор БФТ\KP APPO\KP APPO\obj\Debug\KP_APPO.Form1.resources
